@@ -2,7 +2,7 @@
 
 **Does a neighborhood's 1939 HOLC grade still predict its residents' income and racial composition today?**
 
-This project quantifies the lasting economic and demographic footprint of the federal redlining policy that systematically denied mortgage access to Detroit neighborhoods based on race — using geospatial data, two U.S. Census APIs, and statistical analysis.
+This project quantifies the lasting economic and demographic footprint of the federal redlining policy that systematically denied mortgage access to Detroit neighborhoods based on race, using geospatial data, two U.S. Census APIs, and statistical analysis.
 
 ---
 
